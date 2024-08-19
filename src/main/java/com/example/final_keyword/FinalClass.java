@@ -6,10 +6,12 @@ final class FinalClass {
     }
 }
 
+// java: cannot inherit from final com.example.final_keyword.FinalClass
+/*
 class Main2 extends FinalClass {
     int z = 0;
 
     public static void main(String[] args) {
 
     }
-}
+}*/
